@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yousifdx50
 - 👀 I’m interested in c++,java and javaScript codings
 - 💞️ I’m looking to collaborate on web dev
+- I am a student at ostim teknik university 
 - 📫 How to reach me my Instagram is yousif_dx50
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: a lot of people will read anything that starts with the word fun fact haha haha haha 
